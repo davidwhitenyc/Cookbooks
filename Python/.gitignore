@@ -1,3 +1,8 @@
 # Ignore the .env file
-
 .env
+
+
+# Ignore these directories and their contents
+**.ipynb_checkpoints/
+**.virtual_documents/
+**.vscode/
